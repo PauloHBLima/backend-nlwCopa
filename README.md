@@ -14,7 +14,7 @@
   <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
   <!--<a href="#memo-licença">Licença</a> &#xa0; | &#xa0;-->
-  <a href="https://github.com/gi-carnaval" target="_blank">Author</a>
+  <a href="https://github.com/PauloHBLimal" target="_blank">Author</a>
 </p>
 
 <br>
